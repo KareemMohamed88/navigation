@@ -52,12 +52,12 @@
     align-items: center;
     height: 40px;
     border-bottom: 2px solid var(--blue);
-    padding: 0 20px;
     transition: 0.4s;
 }
 .mobileNav ul li:hover{
     background-color: var(--blue);
     border-radius: 5px;
+    padding: 0 20px;
 }
 .mobileNav ul li:hover ion-icon{
     color: var(--white);
